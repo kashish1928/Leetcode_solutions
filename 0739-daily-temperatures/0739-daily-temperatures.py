@@ -4,10 +4,9 @@ class Solution(object):
         :type temperatures: List[int]
         :rtype: List[int]
         """
-        n = len(temperatures)
-        res = [0]*n
+        res = [0]*len(temperatures)
         stack = []
-        for i in range(n):
+        for i in range(len(temperatures)):
             while stack and temperatures[i] > temperatures[stack[-1]]:
                 index = stack.pop()
                 res[index] = i - index
