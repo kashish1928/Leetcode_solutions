@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -54,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
