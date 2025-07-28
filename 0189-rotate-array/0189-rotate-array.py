@@ -8,11 +8,9 @@ class Solution:
         temp = []
         for i in nums:
             temp.append(i)
-        new_k = k
-        if(k > len(nums)):
-            new_k = k % len(nums)
+        k = k % len(nums)
         for i in range(0,len(nums)):
-            nums[i] = temp[i-new_k]
+            nums[i] = temp[i-k]
             
         
 
