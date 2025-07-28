@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/kashish1928/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kashish1928/Leetcode_solutions/tree/master/0883-car-fleet) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
