@@ -3,16 +3,13 @@ class Solution:
         max_profit = 0
         left = 0
         right = 1
-        best_day = 0
         if(len(prices) == 1):
             return 0
-        while(right < len(prices)):
-            profit = prices[right]-prices[left]
-            if(profit < max_profit):
+        while(right < len(prices)): 
+            if(prices[right]-prices[left] < max_profit):
                 if(prices[right] < prices[left]):
                     left = right
             else:
-                max_profit = profit
-                best_day = right
+                max_profit = prices[right]-prices[left]
             right+=1
         return max_profit
