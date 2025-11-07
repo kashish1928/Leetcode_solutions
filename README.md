@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kashish1928/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/kashish1928/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Monotonic Stack
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/kashish1928/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
