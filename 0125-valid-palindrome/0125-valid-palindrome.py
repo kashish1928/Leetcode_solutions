@@ -5,7 +5,6 @@ class Solution(object):
         :rtype: bool
         """
         s = s.lower()
-        s = s.replace(' ','')
         left = 0
         right = len(s) - 1
         while(left<right):
