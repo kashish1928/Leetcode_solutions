@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kashish1928/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kashish1928/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kashish1928/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kashish1928/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish1928/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
