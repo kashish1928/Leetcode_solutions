@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/kashish1928/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/kashish1928/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kashish1928/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kashish1928/Leetcode_solutions/tree/master/0125-valid-palindrome) |
