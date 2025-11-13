@@ -12,7 +12,6 @@ class Solution:
             if(idx == numRows-1):
                 d=-1
             idx+=d
-        ans=""
         for i in range(numRows):
             l[i] = "".join(l[i])
         return "".join(l)
