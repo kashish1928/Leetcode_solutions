@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/kashish1928/Leetcode_solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -128,4 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
