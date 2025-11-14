@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/kashish1928/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kashish1928/Leetcode_solutions/tree/master/0883-car-fleet) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/kashish1928/Leetcode_solutions/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/kashish1928/Leetcode_solutions/tree/master/0274-h-index) |
 | [0883-car-fleet](https://github.com/kashish1928/Leetcode_solutions/tree/master/0883-car-fleet) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 | [4107-find-missing-elements](https://github.com/kashish1928/Leetcode_solutions/tree/master/4107-find-missing-elements) |
 ## String
 |  |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kashish1928/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/kashish1928/Leetcode_solutions/tree/master/0134-gas-station) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting Sort
 |  |
 | ------- |
