@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kashish1928/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish1928/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
