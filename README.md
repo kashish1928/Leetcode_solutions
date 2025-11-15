@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kashish1928/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kashish1928/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [4107-find-missing-elements](https://github.com/kashish1928/Leetcode_solutions/tree/master/4107-find-missing-elements) |
 ## Sorting
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kashish1928/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kashish1928/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kashish1928/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Monotonic Stack
