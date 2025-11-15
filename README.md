@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kashish1928/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/kashish1928/Leetcode_solutions/tree/master/0274-h-index) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kashish1928/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kashish1928/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/kashish1928/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/1250-longest-common-subsequence) |
 ## Greedy
