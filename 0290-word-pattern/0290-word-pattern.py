@@ -5,7 +5,7 @@ class Solution:
         st = s.split()
         if(len(pattern) != len(st)):
             return False
-            
+
         for i in range(len(pattern)):
             if(pattern[i] not in pat):
                 pat[pattern[i]] = [i]
@@ -16,11 +16,6 @@ class Solution:
             else:
                 stg[st[i]].append(i)
 
-
-        print(pat)
-        print(stg)
-        print(pat.values())
-        print(stg.values())
         if(len(pat) != len(stg)):
             return False
         if(list(pat.values()) != list(stg.values())):
