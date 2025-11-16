@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kashish1928/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kashish1928/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/kashish1928/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/kashish1928/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kashish1928/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kashish1928/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kashish1928/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kashish1928/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/kashish1928/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
