@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kashish1928/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/kashish1928/Leetcode_solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/kashish1928/Leetcode_solutions/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kashish1928/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/kashish1928/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kashish1928/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kashish1928/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kashish1928/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/kashish1928/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
