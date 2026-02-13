@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kashish1928/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/kashish1928/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kashish1928/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kashish1928/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kashish1928/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/kashish1928/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Sliding Window
