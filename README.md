@@ -213,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/kashish1928/Leetcode_solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/kashish1928/Leetcode_solutions/tree/master/0184-department-highest-salary) |
+| [0511-game-play-analysis-i](https://github.com/kashish1928/Leetcode_solutions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
