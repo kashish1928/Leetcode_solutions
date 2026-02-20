@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/kashish1928/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/kashish1928/Leetcode_solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kashish1928/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0704-binary-search](https://github.com/kashish1928/Leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kashish1928/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kashish1928/Leetcode_solutions/tree/master/0883-car-fleet) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/kashish1928/Leetcode_solutions/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kashish1928/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kashish1928/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kashish1928/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/kashish1928/Leetcode_solutions/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
